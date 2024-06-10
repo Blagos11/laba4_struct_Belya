@@ -48,6 +48,9 @@ bool canFormWord(const std::string& source, const std::string& target) {
 }
 
 int main() {
+    std::cout << "Беляков Никита Юрьевич " << std::endl;
+    std::cout << "090301-ПОВа-о23" << std::endl;
+    
     std::string dictionaryFile = "russian_nouns.txt"; // Замените на путь к вашему файлу словаря
     std::string inputWord;
 
